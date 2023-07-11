@@ -19,7 +19,7 @@ Liveserver
 
 ## Live Demo
 
-*Would be ready soon.....*
+[Live demo link](https://kit-drums.netlify.app/)
 
 ### Setup
 
